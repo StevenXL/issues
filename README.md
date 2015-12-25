@@ -1,6 +1,7 @@
 # Issues
 
-**TODO: Add description**
+My first Elixir-based application / project. Built with help from Dave Thomas's
+[Programming Elixir](https://pragprog.com/book/elixir/programming-elixir) book.
 
 ## Installation
 
